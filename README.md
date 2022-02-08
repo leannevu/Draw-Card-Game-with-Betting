@@ -14,4 +14,4 @@ FEATURES:
 - End current player's round
 - Add, edit, delete, search, and view player's information
 - View an about form of the GUI
-- View results as playing
+- View results of selected player
